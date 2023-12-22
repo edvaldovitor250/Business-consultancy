@@ -42,5 +42,16 @@ Explore a incrível funcionalidade de automação que captura a foto e o nome do
   
 - `Today()`: Capture a data atual para rastreamento de eventos e prazos.
 
+## Tecnologias Utilizadas
+
+| Tecnologia                  | Descrição                                                                                                     | Imagem                                                |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Microsoft DataVerse         | Oferece capacidade de armazenamento avançado para dados essenciais, garantindo uma base sólida para o sistema. | ![DataVerse](https://github.com/edvaldovitor250/Business-consultancy/assets/116117189/f8e66726-0eda-428a-a538-b4573f4515fc)       |
+| Microsoft Power Apps         | Plataforma de desenvolvimento que permite criar aplicativos personalizados de forma eficiente e flexível.        | ![Power Apps](https://github.com/edvaldovitor250/Business-consultancy/assets/116117189/1d4222e7-d408-44dc-a8ba-650b04f786c2)     |
+| Dynamics 365                | Utilizado para configurar entidades, como tarefas e contatos, oferecendo uma estrutura sólida para o aplicativo. | ![Dynamics 365](https://github.com/edvaldovitor250/Business-consultancy/assets/116117189/94245d30-7fa0-4afb-879f-e71a8f6d7b6a) |
+| Excel                       | Ferramenta de planilhas que permite a manipulação e análise de dados de forma eficaz.                            | ![Excel](https://github.com/edvaldovitor250/Business-consultancy/assets/116117189/4bad5b4a-6205-450e-ab5a-3f72cc450278)               |
+| MetaDados                   | Conjunto de informações que descrevem as características e propriedades dos dados.                             | ![MetaDados](https://github.com/edvaldovitor250/Business-consultancy/assets/116117189/756c706d-77bf-491a-a3b9-9c4645db4f92)        |
+
+
 ## Documentação
 Este repositório serve como um guia interativo para compreender as funcionalidades e códigos incorporados em nosso aplicativo mobile no Dynamics 365. Fique à vontade para explorar e contribuir para a melhoria contínua do nosso poderoso aplicativo! 🚀✨
